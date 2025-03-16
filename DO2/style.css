@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.banner {
+    background-color: pink;
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+.content {
+    width: 300px;
+    margin: 30px;
+    background-color: rgb(229, 153, 232);
+    color: white;
+    font-style: italic;
+    border-radius: 30px;
+    padding: 20px;
+    text-align: center;
+    border: 10px solid pink
+}
+
